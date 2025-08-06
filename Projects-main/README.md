@@ -4,7 +4,7 @@
 - 👋 Hi there! Welcome to my profile. I’m Neeraj Krishna Prasad Reddy Aalla, a passionate data enthusiast with growing expertise in Data Science, Machine Learning, and Computer Vision.
 - 🎓 I hold a Master’s degree in Computer Science from the University of Alabama at Birmingham and a Bachelor’s degree in Computer Science from Anna University.
 - Check out all my projects from the Table of Contents below.
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/neeraj-reddy-b9ab43141)
+- :mailbox:How to reach me: [![Linkedin Badge] (https://www.linkedin.com/in/neeraj-reddy-b9ab43141)
 - ## Want to chat with my chatbot? Click the logo [![Chatbot Badge](https://img.shields.io/badge/Chatbot-Streamlit-green?style=flat&logo=streamlit&logoColor=white&logoSize=50)](https://sriker-chatbot.streamlit.app/)
 - I have included the code for this particular chatbot I mentioned above right here([📁 Streamlit chatbot_code](https://github.com/SrikerJoshi/Projects/blob/main/AI%20based%20LLM%20Chatbots/streamlit_ai_chatbot.py)
 
